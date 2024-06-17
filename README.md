@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lacky.kannauje@ssipmt.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PmhB8H7-gXsnONdxBE9tBcMlA5CDLQ0T/view?usp=drive_link](https://drive.google.com/file/d/1PmhB8H7-gXsnONdxBE9tBcMlA5CDLQ0T/view?usp=drive_link)
+- 📄 Know about my experiences [Resume📃](https://drive.google.com/file/d/1EFOX5rdQBs6sddLy3JXdYn4TyEwFjpfD/view?usp=sharing)
 
 - ⚡ Fun fact **🤖 No Fun**
 
