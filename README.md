@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lacky Kannauje</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Application](https://github.com/LackyKannauje/ecom_app)
+-  💻 My PortFolio Website [PortFolio](https://portfolio-3d-lk.netlify.app/)
+
+-  🔭 I’m currently working on [College Updates!! Application](https://github.com/LackyKannauje/college_updates)
 
 - 🌱 I’m currently learning **Data Structures, Node.js, Express.js, React.js**
 
@@ -9,13 +11,16 @@
 
 - ⚒️ I've Worked on 2. [Generative Discord Bots](https://github.com/LackyKannauje/generative_image_ai)
 
+- ⚒️ I've Worked on 3. [Ecom Application](https://github.com/LackyKannauje/ecom_app)
+  
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lackyk9j/](https://www.linkedin.com/in/lackyk9j/)
 
 - 💬 Ask me about **Flutter, Dart, New Technologies, Backend**
 
 - 📫 How to reach me **lacky.kannauje@ssipmt.com**
 
-- 📄 Know about my experiences [Resume📃](https://drive.google.com/file/d/1EFOX5rdQBs6sddLy3JXdYn4TyEwFjpfD/view?usp=sharing)
+- 📄 Know about my experiences [Resume0📃](https://drive.google.com/file/d/1EFOX5rdQBs6sddLy3JXdYn4TyEwFjpfD/view?usp=sharing)  [Resume1](https://drive.google.com/file/d/1wHbW3gDcHWf6tjzhf0NoZ8WyIsPVi4Rn/view)
 
 - ⚡ Fun fact **🤖 No Fun**
 
