@@ -3,7 +3,7 @@
 
 -  💻 My PortFolio Website [PortFolio](https://portfolio-3d-lk.netlify.app/)
 
--  🔭 I’m currently working on [College Updates!! Application](https://github.com/LackyKannauje/college_updates)
+-  🔭 I’m currently working on [College Updates!! Application](https://github.com/LackyKannauje/college_updates) and [Minor Project - Animal Rescue App](https://github.com/LackyKannauje/minor-app)
 
 - 🌱 I’m currently learning **Data Structures, Node.js, Express.js, React.js**
 
