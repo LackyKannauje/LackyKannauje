@@ -142,9 +142,9 @@
 
 <div align="center">
   
-### 📧 How to reach me: **lacky.kannauje@ssipmt.com**
+### 📧 How to reach me: **lacky.kannauje@ssipmt.com** || **lackykannauje@gmail.com**
   
-### 📄 [Download My Resume](https://drive.google.com/file/d/1EFOX5rdQBs6sddLy3JXdYn4TyEwFjpfD/view)
+### 📄 [Download My Resume](https://drive.google.com/file/d/1ui2oRiH12l3sWcUzzLiafU89z4sJqPVU)
   
 </div>
 
