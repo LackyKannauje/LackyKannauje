@@ -90,8 +90,14 @@
 <br/>
 
 <div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/LackyKannauje/LackyKannauje/output/github-contribution-grid-snake.gif)
+
+## 🚀 **Code Contribution Heatmap**
+
+<img src="https://ghchart.rshah.org/lackykannauje" alt="Coding Activity" width="100%" style="border-radius: 8px;"/>
+
+<p align="center">
+  <i>Every green pixel tells a story of code</i> 💚
+</p>
 
 </div>
 
