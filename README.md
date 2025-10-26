@@ -99,6 +99,8 @@
   <i>Every green pixel tells a story of code</i> 💚
 </p>
 
+![snake gif](https://github.com/LackyKannauje/LackyKannauje/blob/output/github-snake.svg)
+
 </div>
 
 <br/>
